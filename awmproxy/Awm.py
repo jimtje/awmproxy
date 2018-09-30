@@ -2,7 +2,7 @@ import requests
 from .Exceptions import *
 
 
-class AWMProxy(object):
+class AwmProxy(object):
     """
 
     """
