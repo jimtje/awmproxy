@@ -4,13 +4,13 @@ This package simplifies using awmproxy.net api to grab proxies so you can go scr
 
 Requirements: paid account with api key
 
-##Install:
+## Install:
 
 ```
 pip install awmproxy
 ```
 
-##Usage:
+## Usage:
 
 
 ```
