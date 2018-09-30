@@ -215,8 +215,8 @@ pip-selfcheck.json
 
 .gitignore
 .idea/
-Would skip repository Awmproxy/
+
 Pipfile
 Pipfile.lock
 setup.py
-!/Awmproxy/
+/tests/
